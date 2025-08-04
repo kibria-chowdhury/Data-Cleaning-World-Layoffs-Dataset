@@ -155,7 +155,7 @@ WHERE t1.company = t2.company
 
 ---
 
-## Remove Rows with Missing Critical Info
+## Removing Rows with Missing Critical Info
 
 Remove rows where both `total_laid_off` and `percentage_laid_off` are missing:
 
