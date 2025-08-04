@@ -4,6 +4,7 @@
 This project involves cleaning a messy dataset of company layoffs using PostgreSQL. It includes table creation, duplicate removal, string normalization, missing value handling, and column standardization — all performed in a structured and repeatable way.
 
 ---
+<img src="Cleaning Messy Data.png" alt="Dashboard" width="600"/>
 
 ## Tool: PostgreSQL
 
